@@ -59,4 +59,6 @@ try:
     r=Random(num)
 except EOFError: 
     r=Random() 
+except ValueError: 
+    r=Random()
 print(r.num)
