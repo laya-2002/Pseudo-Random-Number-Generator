@@ -1,2 +1,2 @@
-# Pseudo-Random-Number-Generator
+# Pseudo Random Number Generator
 This program generates a random number.
